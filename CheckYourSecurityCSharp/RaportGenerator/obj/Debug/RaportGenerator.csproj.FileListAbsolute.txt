@@ -1,0 +1,13 @@
+C:\Users\Mariusz\Desktop\Hackaton-2019-Warszawa\CheckYourSecurityCSharp\RaportGenerator\obj\Debug\RaportGenerator.csprojAssemblyReference.cache
+C:\Users\Mariusz\Desktop\Hackaton-2019-Warszawa\CheckYourSecurityCSharp\RaportGenerator\obj\Debug\RaportGenerator.csproj.CoreCompileInputs.cache
+C:\Users\Mariusz\Desktop\Hackaton-2019-Warszawa\CheckYourSecurityCSharp\RaportGenerator\bin\Debug\RaportGenerator.dll
+C:\Users\Mariusz\Desktop\Hackaton-2019-Warszawa\CheckYourSecurityCSharp\RaportGenerator\bin\Debug\RaportGenerator.pdb
+C:\Users\Mariusz\Desktop\Hackaton-2019-Warszawa\CheckYourSecurityCSharp\RaportGenerator\bin\Debug\IronPdf.dll
+C:\Users\Mariusz\Desktop\Hackaton-2019-Warszawa\CheckYourSecurityCSharp\RaportGenerator\bin\Debug\IronPdf.xml
+C:\Users\Mariusz\Desktop\Hackaton-2019-Warszawa\CheckYourSecurityCSharp\RaportGenerator\obj\Debug\RaportGenerator.csproj.CopyComplete
+C:\Users\Mariusz\Desktop\Hackaton-2019-Warszawa\CheckYourSecurityCSharp\RaportGenerator\obj\Debug\RaportGenerator.dll
+C:\Users\Mariusz\Desktop\Hackaton-2019-Warszawa\CheckYourSecurityCSharp\RaportGenerator\obj\Debug\RaportGenerator.pdb
+C:\Users\Mariusz\Desktop\Hackaton-2019-Warszawa\CheckYourSecurityCSharp\RaportGenerator\bin\Debug\SecurityServices.dll
+C:\Users\Mariusz\Desktop\Hackaton-2019-Warszawa\CheckYourSecurityCSharp\RaportGenerator\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Mariusz\Desktop\Hackaton-2019-Warszawa\CheckYourSecurityCSharp\RaportGenerator\bin\Debug\SecurityServices.pdb
+C:\Users\Mariusz\Desktop\Hackaton-2019-Warszawa\CheckYourSecurityCSharp\RaportGenerator\bin\Debug\Newtonsoft.Json.xml

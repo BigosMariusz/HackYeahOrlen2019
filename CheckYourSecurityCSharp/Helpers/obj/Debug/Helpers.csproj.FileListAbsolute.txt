@@ -1,0 +1,10 @@
+C:\Users\Mariusz\Desktop\Hackaton-2019-Warszawa\CheckYourSecurityCSharp\Helpers\bin\Debug\Helpers.dll
+C:\Users\Mariusz\Desktop\Hackaton-2019-Warszawa\CheckYourSecurityCSharp\Helpers\bin\Debug\Helpers.pdb
+C:\Users\Mariusz\Desktop\Hackaton-2019-Warszawa\CheckYourSecurityCSharp\Helpers\bin\Debug\System.Management.Automation.dll
+C:\Users\Mariusz\Desktop\Hackaton-2019-Warszawa\CheckYourSecurityCSharp\Helpers\bin\Debug\Microsoft.Management.Infrastructure.dll
+C:\Users\Mariusz\Desktop\Hackaton-2019-Warszawa\CheckYourSecurityCSharp\Helpers\bin\Debug\System.Management.Automation.xml
+C:\Users\Mariusz\Desktop\Hackaton-2019-Warszawa\CheckYourSecurityCSharp\Helpers\obj\Debug\Helpers.csprojAssemblyReference.cache
+C:\Users\Mariusz\Desktop\Hackaton-2019-Warszawa\CheckYourSecurityCSharp\Helpers\obj\Debug\Helpers.csproj.CoreCompileInputs.cache
+C:\Users\Mariusz\Desktop\Hackaton-2019-Warszawa\CheckYourSecurityCSharp\Helpers\obj\Debug\Helpers.csproj.CopyComplete
+C:\Users\Mariusz\Desktop\Hackaton-2019-Warszawa\CheckYourSecurityCSharp\Helpers\obj\Debug\Helpers.dll
+C:\Users\Mariusz\Desktop\Hackaton-2019-Warszawa\CheckYourSecurityCSharp\Helpers\obj\Debug\Helpers.pdb

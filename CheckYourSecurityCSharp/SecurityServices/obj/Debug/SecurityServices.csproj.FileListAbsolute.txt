@@ -1,0 +1,14 @@
+C:\Users\Mariusz\Desktop\Hackaton-2019-Warszawa\CheckYourSecurityCSharp\SecurityServices\bin\Debug\SecurityServices.dll
+C:\Users\Mariusz\Desktop\Hackaton-2019-Warszawa\CheckYourSecurityCSharp\SecurityServices\bin\Debug\SecurityServices.pdb
+C:\Users\Mariusz\Desktop\Hackaton-2019-Warszawa\CheckYourSecurityCSharp\SecurityServices\obj\Debug\SecurityServices.csprojAssemblyReference.cache
+C:\Users\Mariusz\Desktop\Hackaton-2019-Warszawa\CheckYourSecurityCSharp\SecurityServices\obj\Debug\SecurityServices.csproj.CoreCompileInputs.cache
+C:\Users\Mariusz\Desktop\Hackaton-2019-Warszawa\CheckYourSecurityCSharp\SecurityServices\obj\Debug\SecurityServices.dll
+C:\Users\Mariusz\Desktop\Hackaton-2019-Warszawa\CheckYourSecurityCSharp\SecurityServices\obj\Debug\SecurityServices.pdb
+C:\Users\Mariusz\Desktop\Hackaton-2019-Warszawa\CheckYourSecurityCSharp\SecurityServices\obj\Debug\SecurityServices.csproj.CopyComplete
+C:\Users\Mariusz\Desktop\Hackaton-2019-Warszawa\CheckYourSecurityCSharp\SecurityServices\bin\Debug\System.Diagnostics.EventLog.dll
+C:\Users\Mariusz\Desktop\Hackaton-2019-Warszawa\CheckYourSecurityCSharp\SecurityServices\bin\Debug\System.Security.AccessControl.dll
+C:\Users\Mariusz\Desktop\Hackaton-2019-Warszawa\CheckYourSecurityCSharp\SecurityServices\bin\Debug\System.Security.Permissions.dll
+C:\Users\Mariusz\Desktop\Hackaton-2019-Warszawa\CheckYourSecurityCSharp\SecurityServices\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\Mariusz\Desktop\Hackaton-2019-Warszawa\CheckYourSecurityCSharp\SecurityServices\bin\Debug\System.ServiceProcess.ServiceController.dll
+C:\Users\Mariusz\Desktop\Hackaton-2019-Warszawa\CheckYourSecurityCSharp\SecurityServices\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Mariusz\Desktop\Hackaton-2019-Warszawa\CheckYourSecurityCSharp\SecurityServices\bin\Debug\Newtonsoft.Json.xml

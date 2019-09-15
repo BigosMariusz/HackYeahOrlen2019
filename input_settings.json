@@ -1,0 +1,24 @@
+{
+    "settings": {
+		"OSVersion":"12346.67",
+        "users": [
+			{
+				"name": "user1",
+				"groups": ["admin"],
+				"state": "active"
+			},
+			{
+				"name": "user2",
+				"groups": ["admin","user"],
+				"state":"unactive"
+			}
+		],
+		"services":[
+			{
+				"Status":"Running",
+				"Name":"BrokerInfrastructure"
+			}
+		]
+		
+    }
+}
